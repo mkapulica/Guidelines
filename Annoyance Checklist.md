@@ -60,7 +60,16 @@
 - **Potential Consequences**: Frustration, time wasted
 - **Common Solutions**: Better organization, clear labeling
 
-### 7. 📅 Outdated or Inconsistent Information
+### 7. 🛠️ Operational Disruptions
+
+> Interruptions or failures in the normal functioning of systems, tools or processes.
+
+- **Examples**: Server downtime, staff shortages, supply chain issues
+- **Immediate Cause**: Inadequate maintenance, poor planning or flawed design.
+- **Potential Consequences**: Delays, lost opportunities, stress
+- **Common Solutions**: Contingency planning, regular maintenance, design revisions
+
+### 8. 📅 Outdated or Inconsistent Information
 
 > Information is not up-to-date or varies across sources.
 
@@ -69,7 +78,7 @@
 - **Potential Consequences**: Confusion, misinformation
 - **Common Solutions**: Regular updates, centralized information management
 
-### 8. 📜 Inflexible or Overly Rigid Rules
+### 9. 📜 Inflexible or Overly Rigid Rules
 
 > Annoyances arising from lack of flexibility in rules or policies.
 
@@ -78,7 +87,7 @@
 - **Potential Consequences**: Dissatisfaction, loss of opportunities
 - **Common Solutions**: Policy revisions, exceptions
 
-### 9. 👫 Interpersonal Conflicts
+### 10. 👫 Interpersonal Conflicts
 
 > Issues arising from interactions between people.
 
@@ -87,7 +96,7 @@
 - **Potential Consequences**: Emotional stress, broken relationships
 - **Common Solutions**: Mediation, training
 
-### 10. 💭 Existential Dilemmas
+### 11. 💭 Existential Dilemmas
 
 > Challenges related to existential concerns or the need to fit in.
 
@@ -96,7 +105,7 @@
 - **Potential Consequences**: Emotional stress, life dissatisfaction
 - **Common Solutions**: Support groups, counseling
 
-### 11. 🌦️ Natural Disruptions
+### 12. 🌦️ Natural Disruptions
 
 > Annoyances caused by natural phenomena that are outside human control.
 
