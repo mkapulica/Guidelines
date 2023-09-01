@@ -31,16 +31,17 @@ To use this checklist, simply go through the list of categories and read the pro
 We've identified eleven key categories of annoyances:
 
 1. ⛑️ **Safety Hazards**
-2. 🔍 **Hard to Find (Items/Information)**
-3. 📅 **Outdated or Inconsistent Information**
-4. 😲 **Unexpected Behaviour/Looks**
-5. 🏃‍♀️ **Hard to Reach (Physically or Time-Based)**
-6. 🪑 **Non-Ergonomic**
-7. 📣 **Sensory Disturbances**
+2. 🪑 **Non-Ergonomic**
+3. 🏃‍♀️ **Hard to Reach (Physically or Time-Based)**
+4. 📣 **Sensory Disturbances**
+5. 😲 **Unexpected Behaviour/Looks**
+6. 🔍 **Hard to Find (Items/Information)**
+7. 📅 **Outdated or Inconsistent Information**
 8. 📜 **Inflexible or Overly Rigid Rules**
 9. 👫 **Interpersonal Conflicts**
-10. 🌦️ **Natural Disruptions**
-11. 💭 **Existential Dilemmas**
+10. 💭 **Existential Dilemmas**
+11. 🌦️ **Natural Disruptions**
+
 
 Each category comes with its own set of examples, immediate causes, potential consequences, and common solutions.
 
